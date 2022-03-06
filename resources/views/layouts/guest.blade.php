@@ -12,7 +12,7 @@
     </head>
     <body>
         <div id="app">
-            <div class="font-sans text-gray-900 antialiased">
+            <div class="font-sans antialiased">
                 {{ $slot }}
             </div>
         </div>
