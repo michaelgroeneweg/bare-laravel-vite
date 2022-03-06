@@ -17,8 +17,7 @@ return [
                 'paths' => [
                     'resources/scss/main.css',
                     'resources/css/tailwind.css',
-                    'resources/scripts/main.ts',
-                    'resources/js/app.js',
+                    'resources/scripts/main.js',
                 ],
                 'ignore' => '/\\.(d\\.ts|json)$/',
             ],
